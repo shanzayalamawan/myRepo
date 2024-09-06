@@ -1,0 +1,11 @@
+# Ignore Python virtual environments
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+
+# Ignore model files and datasets
+model.pkl
+dataset.csv
